@@ -1,7 +1,8 @@
 <img align='right' src='https://github.com/yflaa/yflaa/blob/main/duck.gif' width='200'>
 
-## Feilin is a second-year graduate student from Institute of Robotics and Intelligent Systems, Chongqing University. His research interest includes robotics, computer vision and vision-language models.
+
 # 🍀 Feilin's Cooperators 🍀
+## Feilin is a second-year graduate student from Institute of Robotics and Intelligent Systems, Chongqing University. His research interest includes robotics, computer vision and vision-language models.
 
 [@Sylvia Wang](https://Sylvia-WangXB.github.io) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
