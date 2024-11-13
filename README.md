@@ -11,7 +11,7 @@
 
 # 🌠 Experiment Results 🌠
 ## Feilin has accomplished several experiments.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">test demo</div><video src="images/test.mp4" controls="" height=300 width=400> </video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">test demo</div><video src="test.mp4" controls="" height=300 width=400> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
  **Precise Positioning and Manipulator Grasping**
