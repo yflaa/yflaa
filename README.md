@@ -1,8 +1,6 @@
 <img align='right' src='duck.gif' width='200'>
 
-
 # 🍀 Feilin's Cooperators 🍀
-<!-- ## Feilin is a second-year graduate student from Institute of Robotics and Intelligent Systems, Chongqing University. His research interest includes robotics, computer vision and vision-language models. -->
 ## Feilin is working with several cooperators.
 
 [@Sylvia Wang](https://Sylvia-WangXB.github.io) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
@@ -13,5 +11,7 @@
 --- | --- | --- | ---
 ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
 
+# 🌠 Experiment Results 🌠
+## Feilin has accomplished several experiments.
 
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yflaa" /> </div> -->
