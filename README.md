@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/yflaa/yflaa/blob/main/duck.gif' width='200'>
+<img align='right' src='duck.gif' width='200'>
 
 
 # 🍀 Feilin's Cooperators 🍀
