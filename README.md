@@ -2,7 +2,8 @@
 
 
 # 🍀 Feilin's Cooperators 🍀
-## Feilin is a second-year graduate student from Institute of Robotics and Intelligent Systems, Chongqing University. His research interest includes robotics, computer vision and vision-language models.
+<!-- ## Feilin is a second-year graduate student from Institute of Robotics and Intelligent Systems, Chongqing University. His research interest includes robotics, computer vision and vision-language models. -->
+## Feilin is working with several cooperators.
 
 [@Sylvia Wang](https://Sylvia-WangXB.github.io) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
